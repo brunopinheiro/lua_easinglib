@@ -8,7 +8,7 @@ Version
 
 
 Works with
-----------
+--------------
 - Corona SDK
  
 
@@ -18,3 +18,8 @@ Usage
 ```lua
 local easing = require("easing")
 ```
+
+
+License
+--------------
+MIT License
