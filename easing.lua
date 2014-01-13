@@ -347,3 +347,5 @@ EasingLib.inOutSine = function(time,duration,initial,delta)
 	return -delta/2 * (math.cos(math.pi * time/duration) - 1) + initial
 end
 
+
+return EasingLib
